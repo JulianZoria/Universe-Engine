@@ -5,6 +5,8 @@
 **Final Release (v10.0)**
 *This repository contains the reference implementation and theoretical framework for the Geometric Theory of the Universe (GTU).*
 
+> **Note:** If GitHub displays an "Invalid PDF" error when viewing the documents, please click the **Download** button to view them locally. The files are intact.
+
 ## Overview
 
 The **Universe Engine** is a computational proof-of-concept for the Geometric Theory of the Universe (formerly Kinematic Theory of Matter). It demonstrates that fundamental physical laws—including Gravity, General Relativity, and Quantum Mechanics—are emergent properties of a discrete, deterministic 4D spacetime lattice.
